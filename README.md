@@ -1,4 +1,4 @@
-_alx-higher_level_programming_
+**alx-higher_level_programming**
 
 
 Course projects will be pushed here
