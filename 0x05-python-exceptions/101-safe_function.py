@@ -9,4 +9,4 @@ def safe_function(fct, *args):
         res = None
         print("Exception: {}".format(e), file=sys.stderr)
     finally:
-        return result
+        return res
